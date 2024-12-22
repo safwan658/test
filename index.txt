@@ -1,0 +1,8 @@
+git clone <url>- create the ropositary to our local workspace
+git status- to check wheather git has initialized in our current directory
+git add <filename>- add the file to staging area to perform comit and push
+git add . - add all files in the directory to the staging area
+git commit -m "message" - to commit that it has been tracked by git
+git push -u origin main - to push the commeted file to the global workspace
+
+git init- to initialize git in a folder
